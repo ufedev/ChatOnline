@@ -87,10 +87,6 @@ body {
   border-radius: 2rem 0rem 2rem 2rem;
   box-shadow: 1px 1px 10px 0px rgba(0, 0, 0, 0.01);
 }
-.chat-send {
-  /* font-size: 2rem; */
-  /* background: #000; */
-}
 
 .chat-box .chat-user {
   display: flex;
