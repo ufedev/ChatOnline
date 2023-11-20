@@ -34,3 +34,5 @@ npm run dev
 ```
 
 ### Imagen de muestra
+
+![Imagen de muestra](https://raw.githubusercontent.com/ufedev/ChatOnline/main/muestra.png)
