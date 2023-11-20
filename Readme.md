@@ -1,8 +1,8 @@
-# Sistema de chat basico
+# Sistema de chat básico
 
 ### Cuenta con la creación de usuarios random cada vez que se recarga la pagina.
 
-Se puede implementar usuarios por base de datos facilmente.
+Se puede implementar usuarios por base de datos fácilmente.
 Ya contiene recuperación de chat de base de datos MongoDB
 
 ## Crear proyecto
